@@ -1,4 +1,4 @@
-# 122KeyModelM
+# 122 Key Model M ReadMe
 Config file for 122 key IBM Model M with Soarer's Converter.
 
 Layout given as PNG. 
