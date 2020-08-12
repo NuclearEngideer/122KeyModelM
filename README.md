@@ -18,4 +18,4 @@ If you want to change the layout, feel free to modify my config. Use the program
   <img src='Layout.png'>
 </p>
 
-Note: my Linux hot key in i3 is ctrl-shift-s -- obviously this may work for "save as" in some applications. The windows screenshot macro is windows-shift-s.
+Note: my Linux screenshot hot key in i3 is ctrl-shift-s -- obviously this may work for "save as" in some applications. The windows screenshot macro is windows-shift-s.
