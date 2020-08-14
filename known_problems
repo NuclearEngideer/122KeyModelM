@@ -1,4 +1,6 @@
-1) The < > does not accept the \| remap on Linux for some reason (Ubuntu 20.04.1 LTS)
+1) The < > key (by left shift) does not accept the \| remap on Linux for some reason (Ubuntu 20.04.1 LTS)
 
-2) When using i3wm, mod-shift-arrow_keys work to move windows with the exception of mod-shift-left_arrow
+2) When using i3wm (i3 4.17.1), mod-shift-arrow_keys work to move windows with the exception of mod-shift-left_arrow
 workaround: mod-shift-j
+
+3) media volume keys (with exception of mute) do not work on Linux
